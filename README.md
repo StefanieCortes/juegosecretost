@@ -20,10 +20,11 @@ El juego consiste en adivinar un número secreto generado aleatoriamente por el 
 
 ## 🖼️ Vista previa
 
-Puedes agregar aquí una captura del juego.
+<img width="1792" height="687" alt="portada-juego-numero-secreto" src="https://github.com/user-attachments/assets/397cb4eb-c924-4b8e-943e-381926383d13" />
+
 
 ```md
-![Vista previa del juego](./img/portada-juego-numero-secreto.png)
+
 ```
 
 ---
