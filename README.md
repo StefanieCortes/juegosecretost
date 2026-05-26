@@ -81,7 +81,7 @@ Este proyecto fue realizado como parte de las actividades prácticas de aprendiz
 
 ## 👩‍💻 Autor
 
-### [Stefanie Cortes,Desarrolladora web y multimedia - Colombia]
+### [Stefanie Cortes, Desarrolladora web y multimedia - Colombia]
 
 Tecnóloga en Desarrollo Multimedia y Web.
 
